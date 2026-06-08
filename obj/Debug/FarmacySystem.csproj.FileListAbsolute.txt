@@ -1,0 +1,11 @@
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\bin\Debug\FarmacySystem.exe.config
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\bin\Debug\FarmacySystem.exe
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\bin\Debug\FarmacySystem.pdb
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.csproj.AssemblyReference.cache
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.Properties.Resources.resources
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.csproj.GenerateResource.cache
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.csproj.CoreCompileInputs.cache
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.exe
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.pdb
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.MainMenuForm.resources
+C:\Users\mierzwu\source\repos\FarmacySystem\FarmacySystem\obj\Debug\FarmacySystem.LokalizacjaDataSetForm.resources
